@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/Module1/Module1/obj/Debug/Module1.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/Module1/Module1/obj/Debug/Module1.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/Module1/Module1/bin/Debug/Module1.exe
+/Users/ruiverganineto/Desktop/Dev/Module1/Module1/bin/Debug/Module1.pdb
+/Users/ruiverganineto/Desktop/Dev/Module1/Module1/obj/Debug/Module1.exe
+/Users/ruiverganineto/Desktop/Dev/Module1/Module1/obj/Debug/Module1.pdb

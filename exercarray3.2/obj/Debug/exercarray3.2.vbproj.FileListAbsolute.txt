@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercarray3.2/bin/Debug/exercarray3.2.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercarray3.2/bin/Debug/exercarray3.2.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercarray3.2/obj/Debug/exercarray3.2.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercarray3.2/obj/Debug/exercarray3.2.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercarray3.2/obj/Debug/exercarray3.2.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercarray3.2/obj/Debug/exercarray3.2.pdb

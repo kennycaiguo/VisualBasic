@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function8/function8/obj/Debug/function8.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function8/function8/obj/Debug/function8.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function8/function8/bin/Debug/function8.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function8/function8/bin/Debug/function8.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function8/function8/obj/Debug/function8.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function8/function8/obj/Debug/function8.pdb

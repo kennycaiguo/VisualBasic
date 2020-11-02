@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/guessnumber/guessnumber/bin/Debug/guessnumber.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/guessnumber/guessnumber/bin/Debug/guessnumber.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/guessnumber/guessnumber/obj/Debug/guessnumber.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/guessnumber/guessnumber/obj/Debug/guessnumber.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/guessnumber/guessnumber/obj/Debug/guessnumber.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/guessnumber/guessnumber/obj/Debug/guessnumber.pdb

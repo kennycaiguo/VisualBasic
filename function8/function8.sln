@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "function8", "function8\function8.vbproj", "{8BED8AD5-7DAD-4BC2-9846-577DCCD7186D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BED8AD5-7DAD-4BC2-9846-577DCCD7186D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8BED8AD5-7DAD-4BC2-9846-577DCCD7186D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8BED8AD5-7DAD-4BC2-9846-577DCCD7186D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8BED8AD5-7DAD-4BC2-9846-577DCCD7186D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

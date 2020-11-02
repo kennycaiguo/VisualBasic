@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BB7E1B17-125D-4147-AE9E-0D15204F8F3C}|Default">
+  <MonoDevelop.Ide.ItemProperties.gameprocedure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gameprocedure/Application.vb">
+    <Files>
+      <File FileName="gameprocedure/Application.vb" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb

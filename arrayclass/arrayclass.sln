@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "arrayclass", "arrayclass\arrayclass.vbproj", "{BC3019CC-9046-4D9E-8A1A-53BA6CD62661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3019CC-9046-4D9E-8A1A-53BA6CD62661}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BC3019CC-9046-4D9E-8A1A-53BA6CD62661}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BC3019CC-9046-4D9E-8A1A-53BA6CD62661}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BC3019CC-9046-4D9E-8A1A-53BA6CD62661}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

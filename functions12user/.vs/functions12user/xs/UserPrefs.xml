@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{876856FC-2352-4D0A-81A9-5C4E11EBA9F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="functions12user/Application.vb">
+    <Files>
+      <File FileName="functions12user/Application.vb" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="functions12user" expanded="True">
+            <Node name="functions12user" expanded="True">
+              <Node name="Application.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.functions12user PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

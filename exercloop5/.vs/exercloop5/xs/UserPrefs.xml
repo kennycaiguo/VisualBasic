@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B9A116F9-4616-4178-8880-3D32C641B885}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Application.vb">
+    <Files>
+      <File FileName="Application.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exercloop5" expanded="True">
+            <Node name="exercloop5" expanded="True">
+              <Node name="Application.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exercloop5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

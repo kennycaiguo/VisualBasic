@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E6A1EF3E-71FC-4D14-9672-FCED6E5861EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Application.vb">
+    <Files>
+      <File FileName="Application.vb" Line="16" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.exercloop11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

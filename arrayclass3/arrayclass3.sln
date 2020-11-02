@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "arrayclass3", "arrayclass3\arrayclass3.vbproj", "{2B520883-51A9-4371-BA06-81DF13F62F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B520883-51A9-4371-BA06-81DF13F62F7C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2B520883-51A9-4371-BA06-81DF13F62F7C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2B520883-51A9-4371-BA06-81DF13F62F7C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2B520883-51A9-4371-BA06-81DF13F62F7C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

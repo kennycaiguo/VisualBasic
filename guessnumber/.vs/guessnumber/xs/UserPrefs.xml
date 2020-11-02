@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40194E7B-947E-488A-A0AC-48A1CA423861}|Default">
+  <MonoDevelop.Ide.ItemProperties.guessnumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="guessnumber/Application.vb">
+    <Files>
+      <File FileName="guessnumber/Application.vb" Line="22" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

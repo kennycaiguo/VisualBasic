@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function4/function4/bin/Debug/function4.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function4/function4/bin/Debug/function4.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function4/function4/obj/Debug/function4.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function4/function4/obj/Debug/function4.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function4/function4/obj/Debug/function4.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function4/function4/obj/Debug/function4.pdb

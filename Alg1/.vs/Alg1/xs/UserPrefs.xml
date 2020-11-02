@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0C8C72C8-66AD-4924-9052-3F8F8C17A5ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alg1/Application.vb">
+    <Files>
+      <File FileName="Alg1/Application.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alg1" expanded="True">
+            <Node name="Alg1" expanded="True">
+              <Node name="Application.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Alg1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

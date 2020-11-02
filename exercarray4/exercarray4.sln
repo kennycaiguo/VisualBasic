@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "exercarray4", "exercarray4.vbproj", "{C562AC90-E4E6-491E-BE77-11B936C21ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C562AC90-E4E6-491E-BE77-11B936C21ACF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C562AC90-E4E6-491E-BE77-11B936C21ACF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C562AC90-E4E6-491E-BE77-11B936C21ACF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C562AC90-E4E6-491E-BE77-11B936C21ACF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

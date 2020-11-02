@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/method/method/obj/Debug/method.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/method/method/obj/Debug/method.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/method/method/bin/Debug/method.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/method/method/bin/Debug/method.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/method/method/obj/Debug/method.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/method/method/obj/Debug/method.pdb

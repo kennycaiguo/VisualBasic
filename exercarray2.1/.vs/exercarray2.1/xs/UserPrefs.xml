@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0A741DC1-31AA-4A82-B7BF-BC618A3BE2B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Application.vb">
+    <Files>
+      <File FileName="Application.vb" Line="61" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exercarray2.1" expanded="True">
+            <Node name="exercarray2.1" expanded="True">
+              <Node name="Application.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.exercarray2.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

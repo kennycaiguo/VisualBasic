@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Projects/exerc10/bin/Debug/exerc10.exe
+/Users/ruiverganineto/Projects/exerc10/bin/Debug/exerc10.pdb
+/Users/ruiverganineto/Projects/exerc10/obj/Debug/exerc10.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Projects/exerc10/obj/Debug/exerc10.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Projects/exerc10/obj/Debug/exerc10.exe
+/Users/ruiverganineto/Projects/exerc10/obj/Debug/exerc10.pdb

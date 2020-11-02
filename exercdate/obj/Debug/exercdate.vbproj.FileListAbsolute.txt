@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercdate/obj/Debug/exercdate.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercdate/obj/Debug/exercdate.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercdate/bin/Debug/exercdate.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercdate/bin/Debug/exercdate.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercdate/obj/Debug/exercdate.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercdate/obj/Debug/exercdate.pdb

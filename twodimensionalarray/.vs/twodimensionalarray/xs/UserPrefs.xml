@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CCBED987-3ED4-4944-9A69-06AB9FE6AA07}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="twodimensionalarray/Application.vb">
+    <Files>
+      <File FileName="twodimensionalarray/Application.vb" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="twodimensionalarray" expanded="True">
+            <Node name="twodimensionalarray" expanded="True">
+              <Node name="Application.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.twodimensionalarray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

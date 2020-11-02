@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/procedure/procedure/bin/Debug/procedure.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/procedure/procedure/bin/Debug/procedure.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/procedure/procedure/obj/Debug/procedure.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/procedure/procedure/obj/Debug/procedure.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/procedure/procedure/obj/Debug/procedure.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/procedure/procedure/obj/Debug/procedure.pdb

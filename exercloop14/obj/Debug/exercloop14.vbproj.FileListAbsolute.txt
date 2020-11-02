@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercloop14/obj/Debug/exercloop14.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercloop14/obj/Debug/exercloop14.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercloop14/bin/Debug/exercloop14.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercloop14/bin/Debug/exercloop14.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercloop14/obj/Debug/exercloop14.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exercloop14/obj/Debug/exercloop14.pdb

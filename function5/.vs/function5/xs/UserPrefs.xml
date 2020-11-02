@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E43A4B58-27C2-4018-AC23-ACC37982C430}|Default">
+  <MonoDevelop.Ide.ItemProperties.function5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="function5/Application.vb">
+    <Files>
+      <File FileName="function5/Application.vb" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

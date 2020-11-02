@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/record3/record3/bin/Debug/record3.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/record3/record3/bin/Debug/record3.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/record3/record3/obj/Debug/record3.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/record3/record3/obj/Debug/record3.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/record3/record3/obj/Debug/record3.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/record3/record3/obj/Debug/record3.pdb

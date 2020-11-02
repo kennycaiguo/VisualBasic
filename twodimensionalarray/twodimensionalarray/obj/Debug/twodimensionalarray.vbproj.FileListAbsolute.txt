@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/twodimensionalarray/twodimensionalarray/obj/Debug/twodimensionalarray.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/twodimensionalarray/twodimensionalarray/obj/Debug/twodimensionalarray.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/twodimensionalarray/twodimensionalarray/bin/Debug/twodimensionalarray.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/twodimensionalarray/twodimensionalarray/bin/Debug/twodimensionalarray.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/twodimensionalarray/twodimensionalarray/obj/Debug/twodimensionalarray.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/twodimensionalarray/twodimensionalarray/obj/Debug/twodimensionalarray.pdb

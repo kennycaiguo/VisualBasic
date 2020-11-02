@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function7/function7/obj/Debug/function7.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function7/function7/obj/Debug/function7.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function7/function7/bin/Debug/function7.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function7/function7/bin/Debug/function7.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function7/function7/obj/Debug/function7.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function7/function7/obj/Debug/function7.pdb

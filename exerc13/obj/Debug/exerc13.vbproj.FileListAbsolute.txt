@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc13/bin/Debug/exerc13.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc13/bin/Debug/exerc13.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc13/obj/Debug/exerc13.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc13/obj/Debug/exerc13.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc13/obj/Debug/exerc13.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc13/obj/Debug/exerc13.pdb

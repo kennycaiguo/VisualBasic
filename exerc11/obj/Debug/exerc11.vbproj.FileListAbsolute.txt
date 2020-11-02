@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Projects/exerc11/bin/Debug/exerc11.exe
+/Users/ruiverganineto/Projects/exerc11/bin/Debug/exerc11.pdb
+/Users/ruiverganineto/Projects/exerc11/obj/Debug/exerc11.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Projects/exerc11/obj/Debug/exerc11.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Projects/exerc11/obj/Debug/exerc11.exe
+/Users/ruiverganineto/Projects/exerc11/obj/Debug/exerc11.pdb

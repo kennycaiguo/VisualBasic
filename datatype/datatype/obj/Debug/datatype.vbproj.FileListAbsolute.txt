@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/bin/Debug/datatype.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/bin/Debug/datatype.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.pdb

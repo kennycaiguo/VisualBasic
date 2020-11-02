@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/functions12user/functions12user/obj/Debug/functions12user.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/functions12user/functions12user/obj/Debug/functions12user.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/functions12user/functions12user/bin/Debug/functions12user.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/functions12user/functions12user/bin/Debug/functions12user.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/functions12user/functions12user/obj/Debug/functions12user.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/functions12user/functions12user/obj/Debug/functions12user.pdb

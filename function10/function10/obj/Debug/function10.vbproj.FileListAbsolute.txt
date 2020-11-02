@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function10/function10/obj/Debug/function10.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function10/function10/obj/Debug/function10.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function10/function10/bin/Debug/function10.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function10/function10/bin/Debug/function10.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function10/function10/obj/Debug/function10.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function10/function10/obj/Debug/function10.pdb

@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function9/function9/bin/Debug/function9.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function9/function9/bin/Debug/function9.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function9/function9/obj/Debug/function9.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function9/function9/obj/Debug/function9.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function9/function9/obj/Debug/function9.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/function9/function9/obj/Debug/function9.pdb

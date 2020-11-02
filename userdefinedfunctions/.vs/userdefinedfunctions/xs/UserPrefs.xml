@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1F3BCFF4-2CE5-4FE0-B36D-B57DC006AAE8}|Default">
+  <MonoDevelop.Ide.ItemProperties.userdefinedfunctions FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="userdefinedfunctions/Application.vb">
+    <Files>
+      <File FileName="userdefinedfunctions/Application.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="userdefinedfunctions" expanded="True">
+            <Node name="userdefinedfunctions" expanded="True">
+              <Node name="Application.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

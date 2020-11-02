@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "function3", "function3\function3.vbproj", "{FA5EE109-180E-467C-9333-9A9340A88306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5EE109-180E-467C-9333-9A9340A88306}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FA5EE109-180E-467C-9333-9A9340A88306}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FA5EE109-180E-467C-9333-9A9340A88306}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FA5EE109-180E-467C-9333-9A9340A88306}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

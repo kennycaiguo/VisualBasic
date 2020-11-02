@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{481A1BDA-4930-453B-A2A4-23B64A7F25C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.record6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="record6/Application.vb">
+    <Files>
+      <File FileName="record6/Application.vb" Line="15" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

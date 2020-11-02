@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/arrayclass/arrayclass/bin/Debug/arrayclass.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/arrayclass/arrayclass/bin/Debug/arrayclass.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/arrayclass/arrayclass/obj/Debug/arrayclass.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/arrayclass/arrayclass/obj/Debug/arrayclass.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/arrayclass/arrayclass/obj/Debug/arrayclass.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/arrayclass/arrayclass/obj/Debug/arrayclass.pdb

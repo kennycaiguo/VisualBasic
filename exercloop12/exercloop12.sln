@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "exercloop12", "exercloop12.vbproj", "{FD2E1AA6-1B15-4079-B58E-FAD9E733B443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2E1AA6-1B15-4079-B58E-FAD9E733B443}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FD2E1AA6-1B15-4079-B58E-FAD9E733B443}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FD2E1AA6-1B15-4079-B58E-FAD9E733B443}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FD2E1AA6-1B15-4079-B58E-FAD9E733B443}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

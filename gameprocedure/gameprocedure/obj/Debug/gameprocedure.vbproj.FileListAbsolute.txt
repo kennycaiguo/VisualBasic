@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/gameprocedure/gameprocedure/obj/Debug/gameprocedure.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/gameprocedure/gameprocedure/obj/Debug/gameprocedure.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/gameprocedure/gameprocedure/bin/Debug/gameprocedure.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/gameprocedure/gameprocedure/bin/Debug/gameprocedure.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/gameprocedure/gameprocedure/obj/Debug/gameprocedure.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/gameprocedure/gameprocedure/obj/Debug/gameprocedure.pdb

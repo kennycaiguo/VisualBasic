@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "record2", "record2\record2.vbproj", "{E1BCA061-503F-40E8-B546-8DACB8078B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BCA061-503F-40E8-B546-8DACB8078B37}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E1BCA061-503F-40E8-B546-8DACB8078B37}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E1BCA061-503F-40E8-B546-8DACB8078B37}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E1BCA061-503F-40E8-B546-8DACB8078B37}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

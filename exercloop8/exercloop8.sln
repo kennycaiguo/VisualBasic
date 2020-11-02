@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "exercloop8", "exercloop8.vbproj", "{FE923659-39CC-4A75-83E2-73AE028B780C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE923659-39CC-4A75-83E2-73AE028B780C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FE923659-39CC-4A75-83E2-73AE028B780C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FE923659-39CC-4A75-83E2-73AE028B780C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FE923659-39CC-4A75-83E2-73AE028B780C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

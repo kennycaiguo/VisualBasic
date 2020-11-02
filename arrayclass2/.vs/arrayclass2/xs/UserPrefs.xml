@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ACB90DBE-9E0C-44A5-A962-107E2E734B8C}|Default">
+  <MonoDevelop.Ide.ItemProperties.arrayclass2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="arrayclass2/Application.vb">
+    <Files>
+      <File FileName="arrayclass2/Application.vb" Line="72" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

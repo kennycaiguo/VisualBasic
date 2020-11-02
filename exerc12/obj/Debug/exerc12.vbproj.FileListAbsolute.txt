@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc12/bin/Debug/exerc12.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc12/bin/Debug/exerc12.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc12/obj/Debug/exerc12.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc12/obj/Debug/exerc12.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc12/obj/Debug/exerc12.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/exerc12/obj/Debug/exerc12.pdb

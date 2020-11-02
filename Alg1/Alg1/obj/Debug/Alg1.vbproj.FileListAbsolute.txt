@@ -1,0 +1,6 @@
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/Alg1/Alg1/bin/Debug/Alg1.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/Alg1/Alg1/bin/Debug/Alg1.pdb
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/Alg1/Alg1/obj/Debug/Alg1.vbprojAssemblyReference.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/Alg1/Alg1/obj/Debug/Alg1.vbproj.CoreCompileInputs.cache
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/Alg1/Alg1/obj/Debug/Alg1.exe
+/Users/ruiverganineto/Desktop/Dev/VisualBasic/Alg1/Alg1/obj/Debug/Alg1.pdb
