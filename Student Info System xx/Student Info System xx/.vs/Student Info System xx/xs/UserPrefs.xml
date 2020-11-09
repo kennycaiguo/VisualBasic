@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{572C53B0-3700-4613-9D05-4816BE61A532}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module2.vb">
+    <Files>
+      <File FileName="Module1.vb" Line="1" Column="1" />
+      <File FileName="Module2.vb" Line="1" Column="1" />
+      <File FileName="Module3.vb" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Student Info System xx" expanded="True">
+            <Node name="Student Info System xx" expanded="True">
+              <Node name="Module2.vb" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Student_220Info_220System_220xx PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

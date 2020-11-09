@@ -1,0 +1,22 @@
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.exe.config
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.exe
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.pdb
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.xml
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.vbprojAssemblyReference.cache
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/obj/Debug/Student_Info_System_xx.Resources.resources
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.vbproj.GenerateResource.cache
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.vbproj.CoreCompileInputs.cache
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.exe
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.xml
+//kcfs04/staffhome/AbrarH/VSStudio/Projects/Access 2 Computing/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.pdb
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.exe.config
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.exe
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.pdb
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/bin/Debug/Student Info System xx.xml
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.vbprojAssemblyReference.cache
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/obj/Debug/Student_Info_System_xx.Resources.resources
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.vbproj.GenerateResource.cache
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.vbproj.CoreCompileInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.exe
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.xml
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/Student Info System xx/Student Info System xx/obj/Debug/Student Info System xx.pdb
