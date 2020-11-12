@@ -4,3 +4,9 @@
 /Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.vbproj.CoreCompileInputs.cache
 /Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.exe
 /Users/ruiverganineto/Desktop/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.pdb
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/datatype/datatype/bin/Debug/datatype.exe
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/datatype/datatype/bin/Debug/datatype.pdb
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.vbprojAssemblyReference.cache
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.vbproj.CoreCompileInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.exe
+/Applications/XAMPP/xamppfiles/htdocs/Dev/VisualBasic/datatype/datatype/obj/Debug/datatype.pdb

@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{19773EDB-86B7-4ED8-AD24-48CEFF3163E3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="record7/Application.vb">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../StudentGradeSystem(class)/Module2.vb">
     <Files>
-      <File FileName="record7/Application.vb" Line="32" Column="21" />
+      <File FileName="../StudentGradeSystem(class)/Module1.vb" Line="9" Column="3" />
+      <File FileName="../StudentGradeSystem(class)/Module2.vb" Line="69" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.record7 PreferredExecutionTarget="MonoDevelop.Default" />

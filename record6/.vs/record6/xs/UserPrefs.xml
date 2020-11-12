@@ -2,7 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.record6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="record6/Application.vb">
     <Files>
-      <File FileName="record6/Application.vb" Line="15" Column="34" />
+      <File FileName="../StudentGradeSystem(class)/Module1.vb" Line="1" Column="1" />
+      <File FileName="record6/Application.vb" Line="15" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
