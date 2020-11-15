@@ -1,0 +1,11 @@
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\bin\Debug\Mobilephonesystem.exe.config
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\bin\Debug\Mobilephonesystem.exe
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\bin\Debug\Mobilephonesystem.pdb
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\bin\Debug\Mobilephonesystem.xml
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\obj\Debug\Mobilephonesystem.vbprojAssemblyReference.cache
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\obj\Debug\Mobilephonesystem.Resources.resources
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\obj\Debug\Mobilephonesystem.vbproj.GenerateResource.cache
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\obj\Debug\Mobilephonesystem.vbproj.CoreCompileInputs.cache
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\obj\Debug\Mobilephonesystem.exe
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\obj\Debug\Mobilephonesystem.xml
+C:\VSStudio\Mobilephonesystem\Mobilephonesystem\obj\Debug\Mobilephonesystem.pdb

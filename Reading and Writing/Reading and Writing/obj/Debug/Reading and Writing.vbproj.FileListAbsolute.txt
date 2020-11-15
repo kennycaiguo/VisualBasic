@@ -1,0 +1,11 @@
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\obj\Debug\Reading and Writing.vbprojAssemblyReference.cache
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\obj\Debug\Reading_and_Writing.Resources.resources
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\obj\Debug\Reading and Writing.vbproj.GenerateResource.cache
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\obj\Debug\Reading and Writing.vbproj.CoreCompileInputs.cache
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\bin\Debug\Reading and Writing.exe.config
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\bin\Debug\Reading and Writing.exe
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\bin\Debug\Reading and Writing.pdb
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\bin\Debug\Reading and Writing.xml
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\obj\Debug\Reading and Writing.exe
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\obj\Debug\Reading and Writing.xml
+\\mcfs01\StudentHome\20035083\VSStudio\Reading and Writing\Reading and Writing\obj\Debug\Reading and Writing.pdb
