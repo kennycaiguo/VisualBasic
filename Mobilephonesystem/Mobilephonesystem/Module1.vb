@@ -13,10 +13,10 @@
 
         Structure planusage
             Dim plantype As String
-            Dim minutes As Integer
-            Dim text As Integer
-            Dim data As Integer
-            Dim month As Integer
+            Dim minutes As UShort
+            Dim text As UShort
+            Dim data As UShort
+            Dim month As Byte
 
         End Structure
 

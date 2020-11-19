@@ -1,19 +1,8 @@
 ﻿<Properties StartupConfiguration="{DDE923A5-DC8A-4D3F-B82D-2A00BD343E6B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="function1/Application.vb">
     <Files>
-      <File FileName="function1/Application.vb" Line="1" Column="1" />
+      <File FileName="function1/Application.vb" Line="12" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="function1" expanded="True">
-            <Node name="function1" expanded="True">
-              <Node name="Application.vb" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.function1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

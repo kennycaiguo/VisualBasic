@@ -1,0 +1,11 @@
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\bin\Debug\PhoneSystem(Oficial).exe.config
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\bin\Debug\PhoneSystem(Oficial).exe
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\bin\Debug\PhoneSystem(Oficial).pdb
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\bin\Debug\PhoneSystem(Oficial).xml
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\obj\Debug\PhoneSystem_Oficial_.Resources.resources
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\obj\Debug\PhoneSystem(Oficial).vbproj.GenerateResource.cache
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\obj\Debug\PhoneSystem(Oficial).vbproj.CoreCompileInputs.cache
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\obj\Debug\PhoneSystem(Oficial).exe
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\obj\Debug\PhoneSystem(Oficial).xml
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\obj\Debug\PhoneSystem(Oficial).pdb
+C:\VSStudio\PhoneSystem(Oficial)\PhoneSystem(Oficial)\obj\Debug\PhoneSystem(Oficial).vbprojAssemblyReference.cache

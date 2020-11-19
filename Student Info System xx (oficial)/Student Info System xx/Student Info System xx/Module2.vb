@@ -279,6 +279,7 @@ Module Module2
 
     End Sub
     '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     Sub Savedata()
         ' Sub Procedure to Save Data
         Dim myfile As System.IO.StreamWriter            'Declare object of type StreamWriter
@@ -296,12 +297,14 @@ Module Module2
             For j = 0 To 17
                 temp = temp & "," & access2computing(i).grades(j).grade
             Next
+
             'Write  Student Details to File including grades. This is a CSV file using a Comma as seperator 
             myfile.WriteLine(access2computing(i).id & "," & access2computing(i).firstname & "," & access2computing(i).surname & "," & access2computing(i).dob & temp)
         Next
         myfile.Close()
     End Sub
     '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     Sub Loaddata()
 
         ' Sub Procedure to Load  Data when program is run
@@ -319,6 +322,7 @@ Module Module2
         ' Can also use:     myfile = My.Computer.FileSystem.OpenTextFieldParser("data.txt", ",")
 
         ' Use a Do Loopp to read each line of text until end of file is reached
+
         While Not myfile.EndOfData
 
             record = myfile.ReadFields  'Read each linbe of the file  into an array . The comma will act as seperator so that each field is read into the  array
