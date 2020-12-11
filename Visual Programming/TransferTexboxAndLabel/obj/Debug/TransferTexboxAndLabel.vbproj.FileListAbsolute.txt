@@ -1,0 +1,12 @@
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\bin\Debug\TransferTexboxAndLabel.exe.config
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\bin\Debug\TransferTexboxAndLabel.exe
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\bin\Debug\TransferTexboxAndLabel.pdb
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\bin\Debug\TransferTexboxAndLabel.xml
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.vbprojAssemblyReference.cache
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.frmVariables.resources
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.Resources.resources
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.vbproj.GenerateResource.cache
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.vbproj.CoreCompileInputs.cache
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.exe
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.xml
+N:\VSStudio\Visual Programming\TransferTexboxAndLabel\obj\Debug\TransferTexboxAndLabel.pdb

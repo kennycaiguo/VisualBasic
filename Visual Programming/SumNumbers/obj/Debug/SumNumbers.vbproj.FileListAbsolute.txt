@@ -1,0 +1,12 @@
+N:\VSStudio\Visual Programming\SumNumbers\bin\Debug\SumNumbers.exe.config
+N:\VSStudio\Visual Programming\SumNumbers\bin\Debug\SumNumbers.exe
+N:\VSStudio\Visual Programming\SumNumbers\bin\Debug\SumNumbers.pdb
+N:\VSStudio\Visual Programming\SumNumbers\bin\Debug\SumNumbers.xml
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.vbprojAssemblyReference.cache
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.Form1.resources
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.Resources.resources
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.vbproj.GenerateResource.cache
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.vbproj.CoreCompileInputs.cache
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.exe
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.xml
+N:\VSStudio\Visual Programming\SumNumbers\obj\Debug\SumNumbers.pdb

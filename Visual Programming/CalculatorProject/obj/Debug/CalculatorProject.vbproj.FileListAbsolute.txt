@@ -1,0 +1,12 @@
+N:\VSStudio\Visual Programming\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+N:\VSStudio\Visual Programming\CalculatorProject\bin\Debug\CalculatorProject.exe
+N:\VSStudio\Visual Programming\CalculatorProject\bin\Debug\CalculatorProject.pdb
+N:\VSStudio\Visual Programming\CalculatorProject\bin\Debug\CalculatorProject.xml
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.vbprojAssemblyReference.cache
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.calculator.resources
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.Resources.resources
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.vbproj.GenerateResource.cache
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.vbproj.CoreCompileInputs.cache
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.exe
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.xml
+N:\VSStudio\Visual Programming\CalculatorProject\obj\Debug\CalculatorProject.pdb
